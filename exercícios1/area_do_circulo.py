@@ -4,7 +4,7 @@ c=float(input('Digite o 1 valor: '))
 
 
 #processamento
-area = 3.14159*c
+area = 3.14159*c **2
 area = str("%.1f"%area)
 #saida
 print("A área do circulo  = ", area, "Cm")
