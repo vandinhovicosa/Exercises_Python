@@ -1,3 +1,6 @@
+"""
+Áreas do triângulo, Circulo, Trepésio, Quadrado e Retângulo
+"""
 # entradas
 A, B, C = map(float, input("Digite A, B e C:\n").split())
 
