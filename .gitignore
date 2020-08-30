@@ -133,8 +133,8 @@ dmypy.json
 .idea/misc.xml
 .idea/modules.xml
 .idea/vcs.xml
-area_do_circulo.py
+exercícios1/area_do_circulo.py
 "m\303\251dia_ponderada.py"
-salario.py
-total_a_pagar.py
+exercícios1/salario.py
+exercícios1/total_a_pagar.py
 "\303\241rea_triangulo.py"
