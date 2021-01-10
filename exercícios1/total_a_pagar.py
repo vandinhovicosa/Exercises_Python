@@ -6,4 +6,4 @@ id2, qtd2, valor2 =map(float, input('Digite informações para peça 2: id, qtd,
 valor_total = (qtd1* valor1)+(qtd2*valor2)
 
 #saida
-print("Valor a pagar = R$ ",str("%.1"%valor_total))
+print("Valor a pagar = R$ ",str(1"%.1"%valor_total))

@@ -6,4 +6,4 @@ v=float(input('Digite as suas vendas: '))
 sf = s + v * 0.15
 m = str("%.1f"%sf)
 #saida
-print("Sua nota  = ", sf)
+print("Seu salário  = ", sf)
